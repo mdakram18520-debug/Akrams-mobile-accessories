@@ -1,0 +1,6 @@
+{
+  "name": "Akram's Mobile Hub",
+  "description": "Smooth, modern e-commerce mobile store for phone accessories, chargers, covers, earphones, audio, order tracking, and card management with free prepaid delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
